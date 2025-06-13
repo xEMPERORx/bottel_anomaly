@@ -1,0 +1,4 @@
+0 Broken_large
+1 Broken_Small
+2 Contaminatio...
+3 Good
